@@ -62,7 +62,7 @@
 
 ```sh
   cd my-folder
-  git clone https://github.com/Koshao-sys/hello-react-front-end.git
+  git clone https://github.com/Koshao-sys/hello-rails-back-end.git
 ```
 
 - To use this repo to your local computer make sure you have installed [Ruby](https://www.ruby-lang.org/), [Rails](https://rubyonrails.org/) and [PostgreSQL](https://www.postgresql.org/)
